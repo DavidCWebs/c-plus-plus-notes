@@ -128,7 +128,9 @@ An ellipsis in the catch block indicates that the catch block will handle any ex
 
 References
 ----------
-* [Exception Handling for C++][1] Stroustrop, B & Koenig, A 
+* [Exception Handling for C++][1] Stroustrop, B & Koenig, A
+* [Good Microsoft Documentation][3]
 
 [1]: http://www.stroustrup.com/except89.pdf
 [2]: examples/exceptions/main.cpp
+[3]: https://docs.microsoft.com/en-us/cpp/cpp/exceptions-and-stack-unwinding-in-cpp?view=vs-2019
