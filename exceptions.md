@@ -130,5 +130,5 @@ References
 ----------
 * [Exception Handling for C++][1] Stroustrop, B & Koenig, A 
 
-[1]: [http://www.stroustrup.com/except89.pdf]
-[2]: [examples/exceptions/main.cpp]
+[1]: http://www.stroustrup.com/except89.pdf
+[2]: examples/exceptions/main.cpp
