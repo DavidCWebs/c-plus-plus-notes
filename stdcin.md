@@ -54,4 +54,9 @@ int main()
 
 For a working example, see [input.cpp][1] in this repo.
 
+References
+----------
+* [Entertaining SO Answer][2]
+
 [1]: examples/input.cpp
+[2]: https://stackoverflow.com/a/53013577/3590673
