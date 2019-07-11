@@ -47,6 +47,11 @@ int main()
 	return 0;
 }
 ```
+
+`std::cin.ignore()` extracts and discards unwanted values.
+
+`std::cin.clear()` changes the internal state of the stream - unsets the error flag.
+
 For a working example, see [input.cpp][1] in this repo.
 
 [1]: examples/input.cpp
