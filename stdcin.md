@@ -47,6 +47,7 @@ int main()
 	return 0;
 }
 ```
+`std::cin` returns false if the input can't match the expected type (in this case, int).
 
 `std::cin.ignore()` extracts and discards unwanted values.
 
